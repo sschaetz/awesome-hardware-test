@@ -32,6 +32,9 @@ A curated list of awesome hardware test projects
 - [hwtests](https://github.com/dolphin-emu/hwtests) - A test suite for GameCube/Wii hardware
 - [HTX](https://github.com/open-power/HTX) - A suite of test tools for hardware validation of OpenPOWER system
 
+### Videos and Presentation
+- [Mass Production: Open-source Testing in Manufacturing](https://www.youtube.com/watch?v=pcyuzB3qLVo) -  A discussion of some common pitfalls experienced during manufacturing, common mistakes that are made, and explain just how hostile an environment factories can be to developing software. Also introduces [exclave](https://github.com/exclave/exclave), a factory test infrastructure, written in Rust.
+
 ---
 
 The following projects have to be categorized:
