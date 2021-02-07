@@ -5,6 +5,8 @@ A curated list of awesome hardware test projects
 - [openhtf](https://github.com/google/openhtf) - The open-source hardware testing framework
 - [robotframework](https://github.com/robotframework/robotframework) - a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA)
 - [TreeATE](https://github.com/WilliamYinwei/TreeATE) (chinese language) - An open source software tool platform dedicated to the automation of factory or semi-finished product testing
+- [exclave](https://github.com/exclave/exclave) - 0 a factory test infrastructure, written in Rust.
+- [sopic](https://github.com/FeetMe/sopic/) - a helper library for a test station in a production line.
 
 ### Instrument Interface
 - [pyvisa](https://github.com/pyvisa/pyvisa) - A Python package that enables you to control all kinds of measurement devices independently of the interface
