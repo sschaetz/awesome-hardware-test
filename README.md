@@ -18,6 +18,7 @@ A curated list of awesome hardware test projects
 
 ### USB
 - [uhubctl](https://github.com/mvp/uhubctl) - A utility to control USB power per-port on smart USB hubs. Smart hub is defined as one that implements per-port power switching.
+- [ykush](https://github.com/Yepkit/ykush) - A utility to control a set of USB switcher boards from [Yepkit](https://www.yepkit.com/home).
 - [acroname BrainStem](https://acroname.com/reference/python/USB.html) - The python interface for a family of (pricey) programmable USB [hubs](https://acroname.com/programmable-and-software-controlled-usb-hubs-and-switches) and switches
 
 ### Hardware Fixtures
