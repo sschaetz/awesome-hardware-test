@@ -7,6 +7,7 @@ A curated list of awesome hardware test projects
 - [TreeATE](https://github.com/WilliamYinwei/TreeATE) (chinese language) - An open source software tool platform dedicated to the automation of factory or semi-finished product testing
 - [exclave](https://github.com/exclave/exclave) - a factory test infrastructure, written in Rust.
 - [sopic](https://github.com/FeetMe/sopic/) - a helper library for a test station in a production line.
+- [mats](https://github.com/slightlynybbled/mats) - a hardware-oriented test environment intended for production testing in a manufacturing environment.
 
 ### Instrument Interface
 - [pyvisa](https://github.com/pyvisa/pyvisa) - A Python package that enables you to control all kinds of measurement devices independently of the interface
