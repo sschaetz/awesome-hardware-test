@@ -24,7 +24,7 @@ A curated list of awesome hardware test projects
 - [uhubctl](https://github.com/mvp/uhubctl) - A utility to control USB power per-port on smart USB hubs. Smart hub is defined as one that implements per-port power switching.
 - [ykush](https://github.com/Yepkit/ykush) - A utility to control a set of USB switcher boards from [Yepkit](https://www.yepkit.com/home).
 - [acroname BrainStem](https://acroname.com/reference/python/USB.html) - The python interface for a family of (pricey) programmable USB [hubs](https://acroname.com/programmable-and-software-controlled-usb-hubs-and-switches) and switches
-
+- [numato samples](https://github.com/numato/samplecode) - Samples for a number of the Numato Labs [GPIO](https://numato.com/product-category/automation/gpio-modules/) and [Relay](https://numato.com/product-category/automation/relay-modules/) hardware modules.
 
 ### Hardware Mocking
 - [pyvisa-sim](https://github.com/pyvisa/pyvisa-sim) - A PyVISA backend that simulates a large part of the "Virtual Instrument Software Architecture"
