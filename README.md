@@ -38,7 +38,6 @@ A curated list of awesome hardware test projects
 - [Mass Production: Open-source Testing in Manufacturing](https://www.youtube.com/watch?v=pcyuzB3qLVo) -  A discussion of some common pitfalls experienced during manufacturing, common mistakes that are made, and explain just how hostile an environment factories can be to developing software. Also introduces [exclave](https://github.com/exclave/exclave), a factory test infrastructure, written in Rust.
 - [testview](https://testview.wordpress.com/) - Information and Best Practices on the Testing of Manufactured Electronics and Systems.
 - [danafosmer.com](https://www.danafosmer.com/) - blog by a test engineer working in the medical device industry.
-- 
 
 ---
 
