@@ -1,6 +1,13 @@
 # awesome-hardware-test :robot:
 A curated list of awesome hardware test projects
 
+### Hardware Testing Frameworks
+- [htf](https://docs.hilster.io/htf/latest/) - 
+  A professional hardware testing framework for automated tests, continuous integration, continuous delivery and
+  end-of-line tests based on Python. 
+  Available for free with optional professional support and services. 
+  Actively maintained by [HILSTER](https://hilster.io) as a part of [QABench](https://qabench.io).
+
 ### Test Execution Engines
 - [TreeATE](https://github.com/WilliamYinwei/TreeATE) (chinese language) - An open source software tool platform dedicated to the automation of factory or semi-finished product testing
 - [crappy](https://github.com/LaboratoireMecaniqueLille/crappy) stands for Command and Real-time Acquisition in Parallelized PYthon - a framework to control hardware tests.
