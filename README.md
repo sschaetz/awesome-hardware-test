@@ -9,7 +9,7 @@ A curated list of awesome hardware test projects
 - [openhtf](https://github.com/google/openhtf) - The open-source hardware testing framework
 - [robotframework](https://github.com/robotframework/robotframework) - a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA)
 - [sopic](https://github.com/FeetMe/sopic/) - a helper library for a test station in a production line.
-- [htf](https://docs.hilster.io/htf/latest/) - a hardware testing framework for automated tests, continuous integration, continuous delivery and end-of-line tests, written in Python.
+- [htf](https://docs.hilster.io/htf/latest/) - a hardware testing framework for automated tests, continuous integration, continuous delivery and end-of-line tests, written in Python and certified for ISO/TR 80002-2.
   
 ### Instrument Interface
 - [pyvisa](https://github.com/pyvisa/pyvisa) - A Python package that enables you to control all kinds of measurement devices independently of the interface
