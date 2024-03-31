@@ -26,7 +26,8 @@ A curated list of awesome hardware test projects
 - [openfixture](https://github.com/tinylabs/openfixture) - A parametric fixturing system to create test fixtures from generated inputs from kicad with minimal effort
 - [uhubctl](https://github.com/mvp/uhubctl) - A utility to control USB power per-port on smart USB hubs. Smart hub is defined as one that implements per-port power switching.
 - [ykush](https://github.com/Yepkit/ykush) - A utility to control a set of USB switcher boards from [Yepkit](https://www.yepkit.com/home).
-
+- [ppk2-api-python](https://github.com/IRNAS/ppk2-api-python) - A python library to inteface with the [Nordic Power Profile Kit II](https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2)
+ 
 ### Hardware Mocking
 - [pyvisa-sim](https://github.com/pyvisa/pyvisa-sim) - A PyVISA backend that simulates a large part of the "Virtual Instrument Software Architecture"
 - [umockdev](https://github.com/martinpitt/umockdev) - mocks Linux devices for creating integration tests for hardware related libraries and programs
