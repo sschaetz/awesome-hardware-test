@@ -11,7 +11,8 @@ A curated list of awesome hardware test projects
 - [robotframework](https://github.com/robotframework/robotframework) - a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA)
 - [sopic](https://github.com/FeetMe/sopic/) - a helper library for a test station in a production line
 - [TreeATE](https://github.com/WilliamYinwei/TreeATE) (chinese language) - An open source software tool platform dedicated to the automation of factory or semi-finished product testing
-  
+- [pytest-embedded)](https://github.com/espressif/pytest-embedded) -  A pytest plugin that designed for embedded testing 
+
 ### Instrument Interface
 - [pyvisa](https://github.com/pyvisa/pyvisa) - A Python package that enables you to control all kinds of measurement devices independently of the interface
 
