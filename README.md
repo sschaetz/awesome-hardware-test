@@ -7,6 +7,7 @@ A curated list of awesome hardware test projects
 - [Flojoy Studio](https://github.com/flojoy-ai/studio) - Flojoy Studio is a desktop visual scripting IDE for running Python scripts - primarily for DAQ, test benches, robotics control, and no-code embedded systems
 - [htf](https://docs.hilster.io/htf/latest/) - a hardware testing framework for automated tests, continuous integration, continuous delivery and end-of-line tests, written in Python and certified for ISO/TR 80002-2 (medical devices)
 - [mats](https://github.com/slightlynybbled/mats) - a hardware-oriented test environment intended for production testing in a manufacturing environment
+- [octoprobe](https://github.com/octoprobe/octoprobe) allows to automatically test various micropython boards against various gadgets.
 - [openhtf](https://github.com/google/openhtf) - the open-source hardware testing framework, Google affiliated
 - [robotframework](https://github.com/robotframework/robotframework) - a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA)
 - [sopic](https://github.com/FeetMe/sopic/) - a helper library for a test station in a production line
@@ -25,6 +26,7 @@ A curated list of awesome hardware test projects
 - [acroname BrainStem](https://acroname.com/reference/python/USB.html) - The python interface for a family of (pricey) programmable USB [hubs](https://acroname.com/programmable-and-software-controlled-usb-hubs-and-switches) and switches
 - [LabJackPython](https://github.com/labjack/LabJackPython) - Python modules and examples for the LabJack U3, U6, UE9 and U12 measurement and automation tools
 - [numato samples](https://github.com/numato/samplecode) - Samples for a number of the Numato Labs [GPIO](https://numato.com/product-category/automation/gpio-modules/) and [Relay](https://numato.com/product-category/automation/relay-modules/) hardware modules
+- [octoprobe tentacle](https://github.com/octoprobe/tentacle) - Hardware in the loop instrumentation PCB, compatible with [octoprobe](https://github.com/octoprobe/octoprobe)
 - [openfixture](https://github.com/tinylabs/openfixture) - A parametric fixturing system to create test fixtures from generated inputs from kicad with minimal effort
 - [ppk2-api-python](https://github.com/IRNAS/ppk2-api-python) - A python library to inteface with the [Nordic Power Profile Kit II](https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2)
 - [uhubctl](https://github.com/mvp/uhubctl) - A utility to control USB power per-port on smart USB hubs. Smart hub is defined as one that implements per-port power switching
