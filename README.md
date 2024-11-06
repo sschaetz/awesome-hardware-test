@@ -14,6 +14,9 @@ A curated list of awesome hardware test projects
 - [TreeATE](https://github.com/WilliamYinwei/TreeATE) (chinese language) - An open source software tool platform dedicated to the automation of factory or semi-finished product testing
 - [pytest-embedded)](https://github.com/espressif/pytest-embedded) -  A pytest plugin that designed for embedded testing 
 
+### Test Database & Analytics
+- [TofuPilot](https://www.tofupilot.com/) - A plug-and-play database and analytics for hardware tests, featuring native Pytest and OpenHTF integration, with an open-source client and API for custom implementations.
+
 ### Instrument Interface
 - [pyvisa](https://github.com/pyvisa/pyvisa) - A Python package that enables you to control all kinds of measurement devices independently of the interface
 
