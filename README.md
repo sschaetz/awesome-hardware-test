@@ -12,7 +12,8 @@ A curated list of awesome hardware test projects
 - [robotframework](https://github.com/robotframework/robotframework) - a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA)
 - [sopic](https://github.com/FeetMe/sopic/) - a helper library for a test station in a production line
 - [TreeATE](https://github.com/WilliamYinwei/TreeATE) (chinese language) - An open source software tool platform dedicated to the automation of factory or semi-finished product testing
-- [pytest-embedded)](https://github.com/espressif/pytest-embedded) -  A pytest plugin that designed for embedded testing 
+- [pytest-embedded](https://github.com/espressif/pytest-embedded) - A pytest plugin that designed for embedded testing
+- [HardPy](https://github.com/everypinio/hardpy) - a python library for creating pytest based test benches for devices, running them through a browser, and storing the results in a database
 
 ### Test Database & Analytics (Commercial)
 - [TofuPilot](https://www.tofupilot.com/) - A plug-and-play database and analytics for hardware tests, featuring native Pytest and OpenHTF integration, with an open-source client and API for custom implementations
@@ -34,10 +35,10 @@ A curated list of awesome hardware test projects
 - [octoprobe tentacle](https://github.com/octoprobe/tentacle) - Hardware in the loop instrumentation PCB, compatible with [octoprobe](https://github.com/octoprobe/octoprobe)
 - [openfixture](https://github.com/tinylabs/openfixture) - A parametric fixturing system to create test fixtures from generated inputs from kicad with minimal effort
 - [ppk2-api-python](https://github.com/IRNAS/ppk2-api-python) - A python library to inteface with the [Nordic Power Profile Kit II](https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2)
-- [Red Pitaya](https://redpitaya.com/) - s a versatile, plug-and-play data acquisition tool with an open-source design. 
+- [Red Pitaya](https://redpitaya.com/) - s a versatile, plug-and-play data acquisition tool with an open-source design.
 - [uhubctl](https://github.com/mvp/uhubctl) - A utility to control USB power per-port on smart USB hubs. Smart hub is defined as one that implements per-port power switching.
 - [ykush](https://github.com/Yepkit/ykush) - A utility to control a set of USB switcher boards from [Yepkit](https://www.yepkit.com/home)
- 
+
 ### Hardware Mocking
 - [pyvisa-sim](https://github.com/pyvisa/pyvisa-sim) - A PyVISA backend that simulates a large part of the "Virtual Instrument Software Architecture"
 - [umockdev](https://github.com/martinpitt/umockdev) - mocks Linux devices for creating integration tests for hardware related libraries and programs
