@@ -28,6 +28,7 @@ A curated list of awesome hardware test projects
 - [wafermap](https://github.com/guanghaofan/wafermap) - A kibana plugin to visualize the wafer map
 
 ### Hardware Devices and Tools
+- [CheckADevice](https://checkadevice.com/) – A fast, no-fuss online device testing tool to check webcams, microphones, keyboards, and other components directly in the browser. No downloads or sign-ups required.
 - [acroname BrainStem](https://acroname.com/reference/python/USB.html) - The python interface for a family of (pricey) programmable USB [hubs](https://acroname.com/programmable-and-software-controlled-usb-hubs-and-switches) and switches
 - [Analog Discovery](https://digilent.com/shop/discovery-essentials/) - Digilent USB Oscilloscopes and Test & Measurement devices and other data acquisition [products](https://digilent.com/shop/products/).
 - [LabJackPython](https://github.com/labjack/LabJackPython) - Python modules and examples for the LabJack U3, U6, UE9 and U12 measurement and automation tools
