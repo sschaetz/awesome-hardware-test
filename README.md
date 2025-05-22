@@ -21,7 +21,8 @@ A curated list of awesome hardware test projects
 
 ### Instrument Interface
 - [pyvisa](https://github.com/pyvisa/pyvisa) - A Python package that enables you to control all kinds of measurement devices independently of the interface
-
+- [Test controller](https://lygte-info.dk/project/TestControllerIntro%20UK.html) - Software to control and log data from many different devices (Like: DMM, power supplies, electronic load).
+ 
 ### Wafer Maps
 - [stdf2map](https://github.com/CozumelDiver/stdf2map) - A python-based command line application for generating bin wafermaps from STDF files
 - [uia-wafermap](https://github.com/uia4w/uia-wafermap) - A JavaScript library to generate wafer maps
