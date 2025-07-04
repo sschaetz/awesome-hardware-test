@@ -33,12 +33,14 @@ A curated list of awesome hardware test projects
 - [Analog Discovery](https://digilent.com/shop/discovery-essentials/) - Digilent USB Oscilloscopes and Test & Measurement devices and other data acquisition [products](https://digilent.com/shop/products/).
 - [cynthion](https://github.com/greatscottgadgets/cynthion) - An all-in-one tool for building, testing, monitoring, and experimenting with USB devices.
 - [LabJackPython](https://github.com/labjack/LabJackPython) - Python modules and examples for the LabJack U3, U6, UE9 and U12 measurement and automation tools
+- [NanoVNA](https://nanovna.com/) - NanoVNA is a handheld Vector Network Analyzer (VNA) with small outline, there is also a next generation version [NanoVNA V2](https://nanorfe.com/nanovna-v2.html)
 - [numato samples](https://github.com/numato/samplecode) - Samples for a number of the Numato Labs [GPIO](https://numato.com/product-category/automation/gpio-modules/) and [Relay](https://numato.com/product-category/automation/relay-modules/) hardware modules
 - [octoprobe tentacle](https://github.com/octoprobe/tentacle) - Hardware in the loop instrumentation PCB, compatible with [octoprobe](https://github.com/octoprobe/octoprobe)
 - [openfixture](https://github.com/tinylabs/openfixture) - A parametric fixturing system to create test fixtures from generated inputs from kicad with minimal effort
 - [ppk2-api-python](https://github.com/IRNAS/ppk2-api-python) - A python library to inteface with the [Nordic Power Profile Kit II](https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2)
 - [qoitech](https://www.qoitech.com/hardware/) - The Otii Arc and Otii Ace are power analyzer, power supply, digital multimeter, source measure unit, power debugger, battery life calculator all in one box. They offer a subscription-based Automation Toolbox and a [switchboard](https://www.qoitech.com/blog/automatic-switch-between-debugger-power-measurements/).
 - [Red Pitaya](https://redpitaya.com/) - s a versatile, plug-and-play data acquisition tool with an open-source design.
+- [tinySA](https://www.tinysa.org/wiki/) - inexpensive small spectrum analyzers and signal generators with some nice capabilities like small screen (portable).
 - [uhubctl](https://github.com/mvp/uhubctl) - A utility to control USB power per-port on smart USB hubs. Smart hub is defined as one that implements per-port power switching.
 - [ykush](https://github.com/Yepkit/ykush) - A utility to control a set of USB switcher boards from [Yepkit](https://www.yepkit.com/home)
  
