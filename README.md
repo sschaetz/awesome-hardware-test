@@ -6,14 +6,15 @@ A curated list of awesome hardware test projects
 - [exclave](https://github.com/exclave/exclave) - a factory test infrastructure, written in Rust
 - [Flojoy Studio](https://github.com/flojoy-ai/studio) - Flojoy Studio is a desktop visual scripting IDE for running Python scripts - primarily for DAQ, test benches, robotics control, and no-code embedded systems
 - [htf](https://docs.hilster.io/htf/latest/) - a hardware testing framework for automated tests, continuous integration, continuous delivery and end-of-line tests, written in Python and certified for ISO/TR 80002-2 (medical devices)
+- [HardPy](https://github.com/everypinio/hardpy) - a python library for creating pytest based test benches for devices, running them through a browser, and storing the results in a database
 - [mats](https://github.com/slightlynybbled/mats) - a hardware-oriented test environment intended for production testing in a manufacturing environment
 - [octoprobe](https://github.com/octoprobe/octoprobe) allows to automatically test various micropython boards against various gadgets.
 - [openhtf](https://github.com/google/openhtf) - the open-source hardware testing framework, Google affiliated
 - [robotframework](https://github.com/robotframework/robotframework) - a generic open source automation framework for acceptance testing, acceptance test driven development (ATDD), and robotic process automation (RPA)
 - [sopic](https://github.com/FeetMe/sopic/) - a helper library for a test station in a production line
 - [TreeATE](https://github.com/WilliamYinwei/TreeATE) (chinese language) - An open source software tool platform dedicated to the automation of factory or semi-finished product testing
+- [PyFixate](https://github.com/PyFixate/Fixate) - a framework for hardware test fixtures and automatic test environments 
 - [pytest-embedded](https://github.com/espressif/pytest-embedded) - A pytest plugin that designed for embedded testing
-- [HardPy](https://github.com/everypinio/hardpy) - a python library for creating pytest based test benches for devices, running them through a browser, and storing the results in a database
 
 ### Test Database & Analytics (Commercial)
 - [TofuPilot](https://www.tofupilot.com/) - A plug-and-play database and analytics for hardware tests, featuring native Pytest and OpenHTF integration, with an open-source client and API for custom implementations
