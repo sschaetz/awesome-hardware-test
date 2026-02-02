@@ -18,6 +18,7 @@ A curated list of awesome hardware test projects
 
 ### Test Database & Analytics (Commercial)
 - [TofuPilot](https://www.tofupilot.com/) - A plug-and-play database and analytics for hardware tests, featuring native Pytest and OpenHTF integration, with an open-source client and API for custom implementations
+- [StandCloud](https://standcloud.io/) - Platform that turns hardware test results into production insights: track yield over time, trace every device by serial number, analyze failures, monitor test-stand fleets, and export data via CSV/API.
 - [yieldHUB](https://www.yieldhub.com) - Analytics platform for semiconductor test
 
 ### Instrument Interface
