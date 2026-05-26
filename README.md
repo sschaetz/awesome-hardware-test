@@ -7,6 +7,7 @@ A curated list of awesome hardware test projects
 - [Flojoy Studio](https://github.com/flojoy-ai/studio) - Flojoy Studio is a desktop visual scripting IDE for running Python scripts - primarily for DAQ, test benches, robotics control, and no-code embedded systems
 - [htf](https://docs.hilster.io/htf/latest/) - a hardware testing framework for automated tests, continuous integration, continuous delivery and end-of-line tests, written in Python and certified for ISO/TR 80002-2 (medical devices)
 - [HardPy](https://github.com/everypinio/hardpy) - a python library for creating pytest based test benches for devices, running them through a browser, and storing the results in a database
+- [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - a hardware-in-the-loop testing framework for cloud-native CI/CD pipelines with a Python client library and driver ecosystem
 - [mats](https://github.com/slightlynybbled/mats) - a hardware-oriented test environment intended for production testing in a manufacturing environment
 - [octoprobe](https://github.com/octoprobe/octoprobe) allows to automatically test various micropython boards against various gadgets.
 - [openhtf](https://github.com/google/openhtf) - the open-source hardware testing framework, Google affiliated
