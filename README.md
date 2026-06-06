@@ -21,10 +21,10 @@ A curated list of awesome hardware test projects
 - [yieldHUB](https://www.yieldhub.com) - Analytics platform for semiconductor test
 
 ### Instrument Interface
+- [PyMeasure](https://github.com/pymeasure/pymeasure) - scientific measurement library wrapping SCPI/GPIB/USB instruments in Python classes, with experiment procedures and live plotting.
 - [pyvisa](https://github.com/pyvisa/pyvisa) - A Python package that enables you to control all kinds of measurement devices independently of the interface
+- [QCoDeS](https://github.com/microsoft/Qcodes) - modular data acquisition framework from the Copenhagen/Delft/Sydney/Microsoft quantum consortium. Built for nanoelectronics but general-purpose for any computer-controlled multi-instrument setup.
 - [Test controller](https://lygte-info.dk/project/TestControllerIntro%20UK.html) - Software to control and log data from many different devices (Like: DMM, power supplies, electronic load).
-- [PyMeasure](https://github.com/pymeasure/pymeasure) — scientific measurement library wrapping SCPI/GPIB/USB instruments in Python classes, with experiment procedures and live plotting.
-- [QCoDeS](https://github.com/microsoft/Qcodes) — modular data acquisition framework from the Copenhagen/Delft/Sydney/Microsoft quantum consortium. Built for nanoelectronics but general-purpose for any computer-controlled multi-instrument setup.
  
 ### Wafer Maps
 - [stdf2map](https://github.com/CozumelDiver/stdf2map) - A python-based command line application for generating bin wafermaps from STDF files
