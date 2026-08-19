@@ -2,6 +2,7 @@
 A curated list of awesome hardware test projects
 
 ### Test Execution Engines
+- [Agentic HIL](https://github.com/agentic-hil/agentic-hil) - a hardware-in-the-loop bridge for AI coding agents: policy-gated MCP tools plus a pytest plugin to build, flash, stimulate and observe real embedded targets
 - [crappy](https://github.com/LaboratoireMecaniqueLille/crappy) stands for Command and Real-time Acquisition in Parallelized PYthon - a framework to control hardware tests
 - [exclave](https://github.com/exclave/exclave) - a factory test infrastructure, written in Rust
 - [Flojoy Studio](https://github.com/flojoy-ai/studio) - Flojoy Studio is a desktop visual scripting IDE for running Python scripts - primarily for DAQ, test benches, robotics control, and no-code embedded systems
