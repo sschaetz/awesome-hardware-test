@@ -51,6 +51,7 @@ A curated list of awesome hardware test projects
 - [tinySA](https://www.tinysa.org/wiki/) - inexpensive small spectrum analyzers and signal generators with some nice capabilities like small screen (portable).
 - [uhubctl](https://github.com/mvp/uhubctl) - A utility to control USB power per-port on smart USB hubs. Smart hub is defined as one that implements per-port power switching.
 - [ykush](https://github.com/Yepkit/ykush) - A utility to control a set of USB switcher boards from [Yepkit](https://www.yepkit.com/home)
+- [Joulescope](https://www.joulescope.com/products/js320) - is a highly popular, precision DC energy analyzer designed by Jetperch. It allows engineers, developers, and makers to measure current, voltage, power, energy, and charge simultaneously to optimize battery life and design more energy-efficient low-power products.
  
 ### Hardware Mocking
 - [pyvisa-sim](https://github.com/pyvisa/pyvisa-sim) - A PyVISA backend that simulates a large part of the "Virtual Instrument Software Architecture"
